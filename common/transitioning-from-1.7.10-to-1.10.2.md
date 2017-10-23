@@ -129,7 +129,7 @@ Impractical by and large, but fun for intra-base transport. [Whee!](https://i.im
 
 ## Actually Additions - Drill ##
 
-Actually Additions' drill is a highly versatile mining tool. It mines pickaxe/shovel blocks at a high speed (even higher with upgrades). It has a modular upgrade system which allows for hot-swapping out of the following upgrades (augments):
+Actually Additions' drill is a highly versatile mining tool that runs off of RF. It mines pickaxe/shovel blocks at a high speed (even higher with upgrades). It has a modular upgrade system which allows for hot-swapping out of the following upgrades (augments) which increase RF usage:
 
 * Speed 1, 2, 3
 * Silk Touch
@@ -142,3 +142,7 @@ Actually Additions has a very descriptive in-game book. Check it out for details
 ## Tinker's Construct - Tool XP ##
 
 Tinker's Construct tools/weapons now amass XP with use and have several milestones, each with increasing XP thresholds. With each level up, you gain an additional modifier slot.
+
+## [Psi](https://psi.vazkii.us/) ##
+
+Psi is an extremely powerful (and cheap) mod. It allows you to program custom spells that can do anything from conjuring a bridge out of thin air to giving your closest enemy a Wither debuff. See the link for more information. The in-game walkthrough is also very in-depth.
