@@ -64,7 +64,7 @@ These networks are inter-dimensional and have privacy settings to protect agains
 
 # 5. Mining #
 
-The Ender Quarry is dead. Long live the Quantum Quarry! For our playthrough, I'm going to discourage the use of "traditional" quarries such as RFTools' Builder unless needed due to progression stage. I encourage you to move to a void miner or quantum quarry as soon as your progression permits. This is all for the sake of Tyler's precious server resources.
+The Ender Quarry is dead. Long live the Quantum Quarry!
 
 ## Environmental Tech - Void Ore/Resource Miner ##
 
@@ -91,6 +91,10 @@ This will mine specific ores depending on its chunk location. I don't believe it
 I'll update this with a more descriptive description when I get a little more experience with it. TL;DR: You send a rocket to an asteroid, it mines ores from the asteroid, and brings them back to Earth.
 
 This cannot mine very many ore types depending on server configuration. Our server is set to the default, which makes asteroids contain Iron, Gold, Copper, Tin, and Redstone.
+
+## RFTools - Builder Block/Quarry Card ##
+
+Basically an Ender quarry but easier. You give it RF and it mines a large piece of land and deposits the products into an inventory above it. This will only load the chunk in which it exists and the chunk it's mining, so it's safe to use from a server resource perspective.
 
 # 6. Storage #
 
